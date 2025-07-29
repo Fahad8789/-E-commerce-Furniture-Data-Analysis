@@ -13,11 +13,16 @@ Understand how factors like free shipping affect sales performance.
 The dataset contains the following columns:
 
 Column Name	Description
-productTitle	The name of the furniture item
-originalPrice	The original price before any discounts
-price	The current selling price
-sold	The number of units sold
-tagText	Additional tags (e.g., "Free shipping")
+productTitle	
+The name of the furniture item
+originalPrice	
+The original price before any discounts
+price	
+The current selling price
+sold	
+The number of units sold
+tagText	
+Additional tags (e.g., "Free shipping")
 
 🔍 Key Insights
 📉 Sales vs. Price: A negative relationship exists between price and number of items sold. Lower-priced items tend to sell more.
